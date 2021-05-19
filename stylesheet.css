@@ -1,0 +1,130 @@
+.Links {
+    margin: 20px 0px 0px 25px;
+}
+
+.Links a {
+    padding: 0px 10px 0px 0px;
+    font-size: 14px;
+    color: black;
+}
+
+.SearchBar, .ImagesBar {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    min-height: 700px;
+}
+.icons i {
+    position: absolute;
+}
+
+.icons {
+    width: 100%;
+    padding-bottom: 10px;
+}
+
+.icon {
+    padding: 12px 12px 12px 20px;
+    min-width: 40px;
+}
+
+.SearchBar img {
+    max-width: 400px;
+}
+
+.SearchBar p, .ImagesBar p {
+    margin-top: 25px;
+    font-size: 14px;
+}
+
+.input-field {
+      height: 40px;
+      width: 100%;
+      border-radius: 20px;
+      border-style: solid;
+      border-color: rgb(211, 211, 211);
+      border-width: 1px;
+      padding-left: 50px;
+}
+
+.input-field:focus {
+    outline: none;
+}
+
+#searchbutton {
+    margin: 25px 5px 0px 5px;
+}
+
+footer {
+    min-height: 80px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(240, 239, 239);
+}
+
+.ImagesBar img {
+    max-width: 250px;
+    margin-bottom: 15px;
+}
+
+.top img {
+    max-width: 110px;
+    margin: 20px 0px 0px 25px;
+}
+
+.top p {
+    color: rgb(202, 18, 18);
+    font-size: 20px;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+
+.container {
+    width: 100%;
+    margin: 50px 0px 0px 50px !important;
+    padding: 0 !important;
+    max-width: 1250px !important;
+}
+
+.col {
+    width: 100%;
+}
+
+.col-md-8 {
+    width: 100%;
+    padding-right: 30px !important;
+}
+
+#all, #exact, #none, #any {
+    margin-bottom: 10px;
+}
+
+label {
+    margin-bottom: 20px !important;
+    margin-left: 15px !important;
+}
+
+.col-md-4 p {
+    font-size: 12px;
+    margin-bottom: 27px;
+}
+
+#all {
+    margin-left: 93px;
+}
+
+#none {
+    margin-left: 56px;
+}
+
+#exact {
+    margin-left: 22px;
+}
+
+#any {
+    margin-left: 65px;
+}

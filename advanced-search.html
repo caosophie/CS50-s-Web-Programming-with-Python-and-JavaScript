@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Advanced Search</title>
+        <link rel="stylesheet" href="stylesheet.css">
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">    
+    </head>
+    <body>
+        <div class="top">
+            <a href="Search.html"><img src="google logo.PNG"></a>
+            <p>Advanced Search</p>
+        </div>
+        <hr style="width:100%;text-align:left;margin-left:0;margin-top: 30px;">
+
+        <div class="container">
+            <form action="https://www.google.com/search?">
+                <div class="row">
+                    <div class="col-md-8">
+                        <h6 style="margin-bottom: 20px;">Find pages with...</h6>
+                        <div class="row">
+                            <div>
+                                <label for="all">all these words:</label>
+                                <input type="text" name="as_q" id="all" size=60><br>
+                            </div>
+                            <div>
+                                <label for="any">any of these words:</label>
+                                <input type="text" name="as_epq" id="any" size=60>
+                            </div>
+                            <div>
+                                <label for="exact">this exact word or phrase:</label>
+                                <input type="text" name="as_oq" id="exact" size=60> 
+                            </div>
+                            <div>
+                                <label for="none">none of these words:</label>
+                                <input type="text" name="as_eq" id="none" size=60>    
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <h6 style="margin-bottom: 25px">To do this in the search box</h6>
+                        <p>Type the important words : <span style="font-family: 'Courier New', Courier, monospace">tri-colour rat terrier</span></p>
+                        <p>Put exact words in quotes: <span style="font-family: 'Courier New', Courier, monospace">"rat terrier"</span></p>
+                        <p>Type OR between all the words you want: <span style="font-family: 'Courier New', Courier, monospace">miniature OR standard</span></p>
+                        <p>Put a minus sign just before words that you don't want: <span style="font-family: 'Courier New', Courier, monospace">-rodent, -"Jack Russell"</span></p>
+                    </div>
+                </div>
+                <input type="submit" value="Advanced Search" class="btn btn-primary btn-sm">
+            </form>
+        </div>
+        <footer></footer>
+    </body>
+</html>
