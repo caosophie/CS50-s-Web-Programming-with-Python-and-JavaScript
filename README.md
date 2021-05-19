@@ -4,7 +4,7 @@ The course is accessible [here](https://learning.edx.org/course/course-v1:Harvar
 
 # Table of contents
 1. HTML & CSS
-   * Project 0
+   * [Project 0](Project0)
 2. Git
 3. Python
 4. Django
