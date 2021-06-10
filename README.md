@@ -8,8 +8,9 @@ The course is accessible [here](https://learning.edx.org/course/course-v1:Harvar
 2. Git
 3. Python
 4. Django
-5. SQL, Models, and Migrations
-6. JavaScript
-7. User Interfaces
-8. Testing, CI/CD
-9. Scalability and Security
+5.  * [Project 1](Project1)
+6. SQL, Models, and Migrations
+7. JavaScript
+8. User Interfaces
+9. Testing, CI/CD
+10. Scalability and Security
