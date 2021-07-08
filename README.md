@@ -11,7 +11,7 @@ The course is accessible [here](https://learning.edx.org/course/course-v1:Harvar
     * [Project 1](Project1)
 5. SQL, Models, and Migrations
     * [Project 2](https://github.com/caosophie/Auctions.)
-    * Description can be accessed [here](https://cs50.harvard.edu/web/2020/projects/2/)
+    * Description can be accessed [here](https://cs50.harvard.edu/web/2020/projects/2/).
 6. JavaScript
 7. User Interfaces
 8. Testing, CI/CD
