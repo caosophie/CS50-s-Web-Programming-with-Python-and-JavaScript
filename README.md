@@ -10,7 +10,8 @@ The course is accessible [here](https://learning.edx.org/course/course-v1:Harvar
 4. Django
 5.  * [Project 1](Project1)
 6. SQL, Models, and Migrations
-7. JavaScript
-8. User Interfaces
-9. Testing, CI/CD
-10. Scalability and Security
+7.  * [Project 2](https://github.com/caosophie/Auctions.)
+8. JavaScript
+9. User Interfaces
+10. Testing, CI/CD
+11. Scalability and Security
